@@ -1,0 +1,75 @@
+.rightProfileMenu{
+    width: fit-content;
+    float: right;
+    background-color: rgb(60 68 69);
+    transition: all 250ms ease-in-out 250ms;
+    color: white;
+    border: 2px solid rgb(73, 73, 73);
+    border-radius: 15px;
+    margin-left: 50%;
+    padding-bottom: 10px;
+}
+.r_Profile_MenuIcon{
+    display: flex;
+    margin: 10px 10px;
+    align-items: center;
+}
+.usrDetails{
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: self-start;
+    font-size: 16px;
+    margin-left: 12px;
+}
+.usrDetails> :nth-child(2){
+    font-size: 10px;
+    font-weight: bold;
+}
+.rightProfileMenu> :nth-child(2){
+    width: 95%;
+    border: 2px solid#9bb6bd5e;
+    color: #00bce7;
+    background-color: #222424;
+    font-weight: bold;
+    border-radius: 26px;
+    margin: 3px 6px;
+}
+.rightProfileMenu> :nth-child(2):hover{
+    
+    background-color: #3a4142;
+
+}
+ hr{
+    width: 100%;
+    height: 1px;
+    border: none;
+    outline: none;
+    background-color: #f5f5f54a;
+    margin-bottom: 6px;
+}
+.span_account{
+    margin-left: 15px;
+    margin-top: 4px;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+.acntIco{
+    display: flex;
+    justify-content: flex-start;
+    margin:0px 10px;
+    gap: 10px;
+    border-radius: 10px;
+    padding: 6px 6px;
+}
+.acntIco> :nth-child(2){
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+.acntIco:hover{
+    cursor: pointer;
+    background-color: #323738;
+}

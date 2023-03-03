@@ -1,0 +1,77 @@
+.postBox {
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(181 180 179);
+    padding: 8px;
+}
+
+.postbox>form {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.post_input {
+    padding: 20px;
+    display: flex;
+}
+.post_input .MuiAvatar-root{
+    position: static;
+}
+
+.post_input>input {
+    flex: 1;
+    margin-left: 20px;
+    font-size: 14px;
+    border: 2px solid rgb(221 221 221);
+    background: none;
+    border-radius: 20px;
+    padding-left: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.post_input>.MuiAvatar-root {
+    height: 4rem;
+    width: 4rem;
+}
+
+.post_input>input:hover,
+input:active {
+
+    transition: all 200ms ease-out;
+    outline: none;
+    background-color: rgb(202, 202, 202);
+    border-color: rgb(194, 192, 192);
+    border-radius: 20px;
+}
+
+.post_btn {
+    border-radius: 6px !important;
+    border: 1px solid #ffffff !important;
+    background: #ff9f0e !important;
+    font-weight: bold !important;
+    padding-top: 3px !important;
+    color: white !important;
+    padding-bottom: 3px !important;
+    margin-left: 84vh !important;
+    margin-bottom: 10px !important;
+}
+
+.post_btn:hover {
+    transition: all 150ms ease-out !important;
+    border: 1px solid #ff9f0e !important;
+    color: #ff9f0e !important;
+    background-color: #ffffff !important;
+}
+
+.postBoxIcons {
+    background-color: #ffffff;
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+    justify-content: center;
+}

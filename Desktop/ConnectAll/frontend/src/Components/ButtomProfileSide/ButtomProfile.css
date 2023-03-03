@@ -1,0 +1,58 @@
+.ButtomProfile{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    border-radius: 0.7rem;
+    gap: 1rem;
+    align-items: center;
+    background: #5eb1b5;
+    font-size: 13px;
+    color: white;
+    padding-bottom: 10px;
+}
+.follower{
+    gap: 10px;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 45px 6rem auto;
+}
+
+.follower> img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 77%;
+}
+.names{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.btn> button{
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    font-weight: bold;
+    transition: all 150ms ease-out;
+    color: white;
+    padding: 4px 4px;
+    margin-left: 9px;
+    font-size: 11px;
+}
+.btn>button:hover{
+    background-color: rgb(46, 46, 46);
+    cursor: pointer;
+}
+.more{
+    width: 95%;
+}
+.more>.MuiButtonBase-root{
+    margin: 0px 10px;
+    width: 91%;
+    border: 1px solid#ffffff24;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+

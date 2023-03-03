@@ -1,0 +1,29 @@
+.RightMenuIcons{
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+
+    padding: 9px 12px;
+    border-radius: 10px;
+ 
+}
+
+.RightMenuIcons>:nth-child(2){
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+.RightMenuIcons>Link , .icooo{
+    /* font-weight: bold; */
+    font-size: 18px;
+    cursor: pointer;
+}
+.RightMenuIcons>:nth-child(1){
+    height: 32px;
+    width: 32px;
+}
+.RightMenuIcons:hover {
+    background-color: #3a4142;
+    transition: all 250ms ease-in 100ms;
+}

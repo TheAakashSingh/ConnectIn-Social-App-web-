@@ -1,0 +1,21 @@
+.App{
+  color: rgb(14, 14, 14);
+  background: #ccf8ffa8;
+  padding: 1rem 1rem;
+}
+.blur1{
+  position: absolute;
+  width: 23rem;
+  transform: rotate(45deg);
+  height: 10rem;
+  border-radius: 50%;
+  background-color: rgb(255 183 225);
+}
+.blur2{
+  position: absolute;
+  width: 23rem;
+  transform: rotate(-45deg);
+  height: 10rem;
+  border-radius: 50%;
+  background-color: rgb(229 229 86);
+}

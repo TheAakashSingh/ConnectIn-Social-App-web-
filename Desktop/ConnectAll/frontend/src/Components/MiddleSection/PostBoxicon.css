@@ -1,0 +1,22 @@
+.postBox_icon{
+    display: flex;
+    gap:12px;
+    align-items: center;
+    padding: 13px 4px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+.postBox_icon:hover{
+    border-radius: 8px;
+    transition: all 150ms ease-in;
+    background-color: #d3d2d2;
+    padding: 10px 4px;
+    cursor: pointer;
+}
+.postBox_icon>h3{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+}
