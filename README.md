@@ -1,13 +1,10 @@
-# ExpenseTracker
-• Created Expense Tracker which is web app to track our daily Expenses and analysis Monthly 
-Expenditure
+# ConnectIn
+ConnectIn is a Social Web app where people can connect with each other in all over the world and share
+their ideas to all over the world via post.
 
 
-• Enabled students to track their expenses can reveal spending issues 100% hassle free
+Here  people can chat with each other too.
 
 
-• Expense Tracker can record expenses without pen and paper easily on your phone or pc on internet 
-anywhere
 
-
-• Technology I use React, Html, CSS , JavaScript
+Technology use:- ReactJs, ExpressJs, Mongodb, NodeJs.  (MERN)
