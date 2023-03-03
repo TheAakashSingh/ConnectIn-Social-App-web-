@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ConnectIn-Social-App-web-/static/css/main.0bdf5cd8.css",
+    "main.js": "/ConnectIn-Social-App-web-/static/js/main.0b6dd5b6.js",
+    "static/media/i5.jpg": "/ConnectIn-Social-App-web-/static/media/i5.bee8f896104552c5cf97.jpg",
+    "static/media/i3.jpg": "/ConnectIn-Social-App-web-/static/media/i3.fce791e884e3f37b1050.jpg",
+    "static/media/i2.jpg": "/ConnectIn-Social-App-web-/static/media/i2.49a10aaa288595d8939d.jpg",
+    "static/media/i4.jpg": "/ConnectIn-Social-App-web-/static/media/i4.aeae529f2ba66df660d6.jpg",
+    "static/media/i1.jpg": "/ConnectIn-Social-App-web-/static/media/i1.0d93e458c77dc4f806af.jpg",
+    "static/media/main.jpg": "/ConnectIn-Social-App-web-/static/media/main.8114e8a06d0c3463c176.jpg",
+    "static/media/mainlogo2.png": "/ConnectIn-Social-App-web-/static/media/mainlogo2.d04485ad2d09cfa75c50.png",
+    "static/media/sec20.webp": "/ConnectIn-Social-App-web-/static/media/sec20.144885be2aaff56cbee4.webp",
+    "index.html": "/ConnectIn-Social-App-web-/index.html",
+    "main.0bdf5cd8.css.map": "/ConnectIn-Social-App-web-/static/css/main.0bdf5cd8.css.map",
+    "main.0b6dd5b6.js.map": "/ConnectIn-Social-App-web-/static/js/main.0b6dd5b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bdf5cd8.css",
+    "static/js/main.0b6dd5b6.js"
+  ]
+}
