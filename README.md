@@ -8,3 +8,5 @@ Here  people can chat with each other too.
 
 
 Technology use:- ReactJs, ExpressJs, Mongodb, NodeJs.  (MERN)
+
+Website live at https://theaakashsingh.github.io/ConnectIn-Social-App-web-/
